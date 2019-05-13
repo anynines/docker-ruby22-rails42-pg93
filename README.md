@@ -1,4 +1,4 @@
-DEPRECATED, DO NOT USE
+DEPRECATED! PLEASE DO NOT USE
 
 # Docker Image with Ruby 2.2.x and Rails 4.2.x and PostgreSQL 9.3 client
 
